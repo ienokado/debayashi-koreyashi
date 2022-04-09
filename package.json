@@ -28,7 +28,7 @@
         "load-google-maps-api": "^2.0.2",
         "lodash": "^4.17.19",
         "masonry-layout": "^4.2.2",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "perfect-scrollbar": "^1.5.0",
         "popper.js": "^1.16",
         "resolve-url-loader": "^3.1.0",
